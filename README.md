@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mazibazi
-- 🌱 I’m currently learning :D :D
+- 🌱 I’m currently learning Loading .......
 -..
 
 <!---
