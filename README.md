@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @mazibazi
-- 🌱 I’m currently learning Loading .......
--..
+For using in Colab, noteBook :D
 
-<!---
-mazibazi/mazibazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
